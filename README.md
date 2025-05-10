@@ -11,7 +11,7 @@ This repository contains a stock market dashboard analysis project where histori
 
 ## 📉 Dashboard Preview
 
-![Dashboard Screenshot](Stock-Market.png)
+![Dashboard Screenshot](stock-market.png)
 
 ## 📌 Project Objective
 To analyze and compare the performance of major tech companies in the stock market using historical data. The analysis focuses on:
